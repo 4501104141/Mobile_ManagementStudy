@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206257273021",
+    "project_id": "qlsinhvien-93aba",
+    "storage_bucket": "qlsinhvien-93aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206257273021:android:5c2f9ac95d810121249fd4",
+        "android_client_info": {
+          "package_name": "com.example.qlsinhvien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206257273021-m5qugc7aikfqihd890ettukr2stj7ba7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7Bp0fJ6NuSsZJWEIEZ_TicoZR4F7adw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206257273021-m5qugc7aikfqihd890ettukr2stj7ba7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
